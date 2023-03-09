@@ -1,6 +1,6 @@
 # Exercices_5
 
-This repository consists of 5 exercices:
+This repository consists of 5 exercices and their corresponding unit tests:
 
 1.Calculate the distance between two points
 
